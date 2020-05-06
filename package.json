@@ -1,0 +1,34 @@
+{
+  "name": "sql-nodejs",
+  "version": "1.0.0",
+  "description": "How to run multiple sql queries directly from an SQL file in nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/app.js"
+  }, 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Johnjahbless/sql-nodejs"
+  },
+  "keywords": [
+    "SQL",
+    "nodejs",
+    "javascript",
+    "MySQL",
+    "database",
+    "ES6"
+  ],
+  "author": "John Kolo",
+  "license": "ISC", 
+  "bugs": {
+    "url": "https://github.com/Johnjahbless/sql-nodejs.git/issues"
+  },
+  "homepage": "https://github.com/Johnjahbless/sql-nodejs",
+  "dependencies": {
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.3"
+  }
+}
