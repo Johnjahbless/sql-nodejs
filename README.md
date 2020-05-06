@@ -5,5 +5,5 @@ To run this code;
 2. Create a new Database with the name `Customers` in MYSQL DB
 3. Open your terminal
 4. Navigate to the root of the project
-5. npm install
-6. npm start
+5. `npm install`
+6. `npm start`
