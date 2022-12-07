@@ -27,7 +27,7 @@
   "homepage": "https://github.com/Johnjahbless/sql-nodejs",
   "dependencies": {
     "ejs": "^3.1.2",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mysql": "^2.18.1",
     "nodemon": "^2.0.3"
   }
